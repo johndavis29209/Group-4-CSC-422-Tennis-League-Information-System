@@ -1,5 +1,5 @@
 
-<h1>Group 4 Assignment 4 Final Assignment: Benjamin DeMorett, John Davis, Alexandria Scott, and Kyle Willis </h1>
+<h1>Group 4 Assignment 4 League Front-end: Benjamin DeMorett, John Davis, Alexandria Scott, and Kyle Willis </h1>
 
 ![12](https://github.com/user-attachments/assets/99bfe978-51a0-48de-8eb0-12fa7be16849)
 
