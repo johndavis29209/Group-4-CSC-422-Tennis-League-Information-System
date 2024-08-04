@@ -113,7 +113,7 @@ The console should display a successful connection message.
 
 -No current implementation to delete records or make adjustments to current records
 
--Additional time spent is needed. (Goals for future updates) 
+-Additional time is needed. (Goals for future updates) 
 
 
 
