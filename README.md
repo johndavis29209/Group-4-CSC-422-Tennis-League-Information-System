@@ -116,6 +116,13 @@ The console should display a successful connection message.
 -Additional time is needed. (Goals for future updates) 
 
 
+<h1>Demo</h1>
+<br>
+
+https://github.com/user-attachments/assets/e31458ec-060e-46aa-a798-b8ed698cfb7f
+
+
+
 
 
 
